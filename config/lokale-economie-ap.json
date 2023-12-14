@@ -3,7 +3,7 @@
   "name": "lokale-economie-ap",
   "type": "ap",
   "eap": "LokaleEconomie.eap",
-  "diagram": "LocaleEconomie",
+  "diagram": "LokaleEconomie",
   "template": "LokaleEconomie-ap.j2",
   "title": "Lokale Economie - Applicatieprofiel",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",

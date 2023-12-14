@@ -1,0 +1,40 @@
+{
+    "naam": "Applicatieprofiel Lokale Economie",
+    "rapport" : "",
+    "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+    "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+    "publicatiedatum": "2023-12-14",
+    "type_toepassing": "Aanbevolen (vrijwillig)",
+    "categorie": "applicatieprofiel",
+    "beschrijving" : "template-description.md",
+    "specificatiedocument": [
+        {
+            "naam": "Lokale Economie Applicatieprofiel",
+            "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/lokale-economie"
+        }
+    ],
+    "documentatie": [],
+    "charter": [
+        {
+            "naam": "OSLO Lokale Economie Charter",
+            "waarde": "Charter_OSLO_Lokale_Economie.docx"
+        }
+    ],
+    "verslagen": [
+        {
+            "naam": "Verslag business werkgroep -  XXX",
+            "waarde": "naam.pdf"
+        },
+    ],
+    "presentaties": [
+        {
+            "naam": "Verslag business werkgroep -  XXX",
+            "waarde": "naam.pdf"
+        },
+    ],
+    "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Lokale Economie",
+    "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+    "datum_van_aanmelding": "",
+    "erkenning_werkgroep_datastandaarden": "",
+    "erkenning_stuurgroep": ""
+  }

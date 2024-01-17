@@ -7,7 +7,7 @@
   "template": "LokaleEconomie-ap.j2",
   "title": "Lokale Economie - Applicatieprofiel",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
-  "publication-date": "2023-12-14",
+  "publication-date": "2024-01-17",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",

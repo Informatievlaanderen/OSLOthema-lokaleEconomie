@@ -1,17 +1,18 @@
 [
 {
-  "name": "mijn-vocabularium-voc",
+  "name": "lokale-economie-voc",
   "type": "voc",
-  "eap": "MijnVocabularium-VOC.eap",
-  "diagram": "OSLO-MijnVocabularium",
-  "template": "mijn-vocabularium-voc.j2",
-  "title": "Mijn Vocabularium",
+  "eap": "LokaleEconomie.eap",
+  "diagram": "LokaleEconomie",
+  "template": "LokaleEconomie-ap.j2",
+  "title": "Lokale Economie - Vocabularium",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
-  "publication-date": "2020-01-31",
+  "publication-date": "2024-01-17",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
-  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mijnThema/issues",
+  "site": "site-skeleton/LokaleEconomie-ap",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-lokaleeconomie/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
 }
 ]

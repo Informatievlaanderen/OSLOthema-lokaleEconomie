@@ -4,7 +4,7 @@
   "type": "voc",
   "eap": "LokaleEconomie.eap",
   "diagram": "LokaleEconomie",
-  "template": "LokaleEconomie-ap.j2",
+  "template": "LokaleEconomie-voc.j2",
   "title": "Lokale Economie - Vocabularium",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2024-01-17",

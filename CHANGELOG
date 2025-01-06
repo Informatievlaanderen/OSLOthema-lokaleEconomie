@@ -1,3 +1,10 @@
 2024-12-03
-  - Delete dummy classes (RuimtelijkObject, DomeinObject and Vestiging)
-  - Update range of attributes
+
+- Delete dummy classes (RuimtelijkObject, DomeinObject and Vestiging)
+- Update range of attributes
+
+2025-01-06
+
+- Create release tags for candidate standard
+- Create release tag for recognized standard
+
